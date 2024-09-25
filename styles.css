@@ -21,7 +21,7 @@ h5 {
 
 h5::before {
     text-align: start;
-    content:<?php echo $headingText; ?>;
+    content:Meet our Group :);
     position: absolute;
     width: 0%;
     height: 100%;
