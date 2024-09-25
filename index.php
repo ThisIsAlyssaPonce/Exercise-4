@@ -1,6 +1,3 @@
-<?php
-    $headingText = "Meet our Group :)";
-?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -36,7 +33,7 @@
 
 
     <div class="navbar">
-        <h5><?php echo $headingText; ?></h5>
+        <h5>Meet our Group :)</h5>
         <div class="quote">
 		
 		<?php
