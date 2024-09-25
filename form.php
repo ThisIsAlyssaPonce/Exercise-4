@@ -1,8 +1,3 @@
-<?php
-    $headingText = "Welcome!";
-?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -18,7 +13,7 @@
 
 <body>
     <div class="navbar">
-        <h5><?php echo $headingText; ?></h5>
+        <h5>Meet our Group :)</h5>
         <div class="quote">
             <blockquote>"Great things are not done by impulse, but by a series of small things brought together." </blockquote>
         </div>
